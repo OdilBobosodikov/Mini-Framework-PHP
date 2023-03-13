@@ -1,0 +1,1 @@
+Simple framework, written only on simple PHP(without any composer dependencies). It is the simplest one and can't be normally used to create web applications. I created this project to understand the frameworks' working principle
